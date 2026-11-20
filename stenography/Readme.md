@@ -113,8 +113,8 @@ Use this tool only on files you own or are authorised to test. It was built for 
 
 ## Author
 
-Built by **Saksham Garg**, B.Tech Computer Science Engineering, as part of a cyber security course project under **[]**.
+Built by **Saksham Garg**, B.Tech Computer Science Engineering, as part of a cyber security course project.
 
 ## License
 
-Released under the MIT License. Add a `LICENSE` file to your repository to apply it.
+Released under the MIT License. 
